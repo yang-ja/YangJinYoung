@@ -26,8 +26,9 @@
 
 ## 핵심 요약
 - **자바·스프링 백엔드 실무**: 멀티 계층 아키텍처, REST API, JPA/QueryDSL 기반 데이터 액세스
-- **WOWSoft 생태계 백엔드 경험**: XCommServer, XWowApi, XApprovalPushApi 등 마이크로서비스 운영
-- **DB 멀티 스키마/멀티 데이터소스**: Oracle(PRCS_GLOBAL/PRCS_ARH), MSSQL, MariaDB 분리 JPA/QueryDSL
+- **WowSoft 생태계 백엔드 경험**: XCommServer, XWowApi, XApprovalPushApi 등 마이크로서비스 운영
+- **DB 멀티 스키마/멀티 데이터소스**: Oracle, MSSQL, MariaDB 분리 JPA/QueryDSL
+- **기업 API 연동**: SSO 등 연동 문서 분석 및 적용, 사내 시스템 통합 경험
 - **오프라인 배포 자동화**: 폐쇄망용 RPM 번들, OCR/SSL 프록시, SELinux/Firewall 스크립트
 - **윈도우 설치 자동화**: NSIS, 서비스 래퍼, MSI 사일런트 인스톨
 - **승인 워크플로**: 계층형 결재 라우팅, 다국어 대시보드, 로그/스케줄러 안정화
@@ -37,7 +38,7 @@
 
 
 ## 대표 프로젝트 설명
-> 회사 소스는 공개 불가. 대신 내가 담당했던 작업 유형을 요약.
+> 담당했던 작업 유형을 요약.
 
 
 - **마이크로서비스 백엔드**: Spring Boot 기반, RESTful API, JWT 인증, 모듈 간 메시징 처리
